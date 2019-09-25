@@ -2640,8 +2640,16 @@ section.lazy-placeholder:after {
 .cid-rD5pUrGsj0 .dropdown-item:hover {
   color: #f7ed4a !important;
 }
+.cid-rD5xuvHjRo {
+  padding-top: 105px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-rD5xuvHjRo P {
+  color: #767676;
+}
 .cid-rD5kWHc7sd {
-  padding-top: 90px;
+  padding-top: 0px;
   padding-bottom: 30px;
   background-color: #efefef;
 }
