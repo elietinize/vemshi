@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "VEMSHI TANZANIA LIMITED",
-    "currentPage": "page39.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -39,14 +39,8 @@
     "uniqCompNum": 228,
     "versionPublish": "4.10.7",
     "screenshot": "screenshot.png",
-    "gdpr": {
-      "colorText": "#a7a7a7",
-      "colorLink": "#149dcc",
-      "underlineLink": false,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
-    },
     "favicon": "",
-    "noImageResize": "true"
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -792,8 +786,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-663-2000x1333.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-691-2000x1333.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -802,10 +796,10 @@
                 "customStyle1": "display-2",
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
-                "title": "COMPRESSOR",
+                "title": "PLANER KNIVES",
                 "overlay": false,
                 "contentAlign": "center",
-                "text": "Tunauza mashine za compressor zilizotumika",
+                "text": "Planer knives zenye high speed steel",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.2"
               },
@@ -829,7 +823,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-694-2000x1333.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
